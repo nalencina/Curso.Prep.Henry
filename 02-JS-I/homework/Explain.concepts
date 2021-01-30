@@ -1,0 +1,75 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como 
+si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+   - Que es una variable?
+   Es un contenedor que tiene información a la que se puede acceder. Esta formada por un espacio
+   en el sistema de almacenaje del ordenador 
+   Puede pensarse como una caja que contiene
+   algo y ademas se averigua que hay dentro o incluso poner mas en la caja.
+   Una variable tiene un nombre y contiene un valor. 
+   Utilizando la analogia de una variable como caja y la etiqueto como JUGUETES y coloco
+   una MUÑECA en su interior, en terminos de programacion JUGUETES es el nombre de la variable
+   y MUÑECA es el valor.
+
+   -Que son los Strings?
+   Viendo lo que es una variable se puede decir que éste mismo tiene distintos valores
+   que tambien son denominados DATOS, exiten 3 tipos de datos: NUMBERS, STRINGS y BOOLEANOS.
+   En este caso los strings son caracteres, mejor dicho texto que se definen entre comillas " ".
+
+   -Que son las funciones?
+   Las funciones son un elemento que empaquetan y ‘aíslan’ del resto del programa, una parte  
+   de código que realiza alguna tarea específica. 
+   Son un conjunto de instrucciones que ejecutan una tarea determinada y que hemos encapsulado 
+   en un formato estándar para que nos sea muy sencillo de manipular y reutilizar.
+   Para utilizar un funcion debemos hacer dos cosas: 1- Declarar la funcion
+                                                     2- Llamar la funcion
+   1-Declarar funcion: corresponde al bloque: function saludo() {............}
+
+ Podemos distinguir los siguientes elementos en este bloque de código que define la función:
+
+ La palabra clave ‘function‘
+ El nombre que queremos darle a dicha función, en este caso: saludo
+ Unos paréntesis que añadimos al nombre para identificarla como función: saludo() 
+ Un bloque de instrucciones que queda encerrado entre llaves { } .
+ Las instrucciones deben llevar al final el correspondiente punto y coma (;)
+
+  2-Llamar la funcion: lo hacemos con la instrucción: saludo()
+
+ En este ejemplo puedes ver que el nombre de la función, tanto al declararla como al llamarla, 
+ tiene unos paréntesis vacíos. En este ejemplo, muestra una frase que siempre es la misma.
+
+ Veremos ahora que también podemos pasarle valores a la función, incluyéndoselos dentro de los paréntesis,
+ y dependiendo de éstos, nos podrá devolver resultados distintos.
+ 
+ PARA UTILIZAR UNA FUNCION EN NUESTRO CODIGO PRIMERO DEBEMOS DEFINIRLA Y LUEGO LLAMARLA.
+
+ ARGUMENTO: es lo que dentro del parentesis de la variable de la funcion, digamosle que valor de la variable.
+
+ RETURN: devuelve el resultado de una funcion.
+
+ - Que son las declaraciones if?
+ La palabra «if«‘ es el ‘si‘ condicional en inglés. La utilizamos en frases como: «saldría a pasear si no 
+ lloviera». Es decir, si se cumpliera la  condición «no llover», entonces realizaríamos la acción  
+ «salir a pasear». En Javascript esta instrucción «if» juega el mismo papel.
+
+ Cuando elaboramos un algoritmo, es decir, desglosamos en pasos detallados y ordenados una tarea o proceso,
+ a menudo tenemos la necesidad de introducir condiciones para contemplar todas las posibilidades 
+ que pueden darse en dicho proceso.
+
+ - Que son los valores booleanos?
+ Son un tipo de dato. Que significa que tiene dos opciones, por ejemplo:
+ 
+ Verdadero o Falso
+ 0 o 1
+ Activar o Desactivar
+
+ Generalmente se utiliza el de V o F.
+
+
