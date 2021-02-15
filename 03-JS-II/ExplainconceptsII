@@ -1,0 +1,18 @@
+Explicar los siguientes conceptos: FOR, "&&", "||", "!".
+
+FOR: es un bucle que se utiliza para evaluar expresiones una y otra vez hasta que 
+devuelve lo que estamos buscando o se detiene hasta cierto tiempo. La sintaxis es de la
+siguiente manera:
+.Primero la palabra clave FOR
+.Luego parentesis que dentro lleva 3 cosas: 1- la declaración de la variable, esto es sobre
+lo que se repetirá el bucle. Entonces habrá un expresión condicional, el ciclo continuará
+sucediendo hasta que la condición sea False. Y tercero se incrementa la variable. las tres 
+declaraciones están separadas por ";".
+
+&&: es un operador logico, significa "y". Devuelve verdadero si ambos son True. Si uno o ambos de 
+ellos es falso devuelve False.
+
+||: es un operador logico, significa "o". Devuelve true si uno o ambos son verdaderos, devuelve 
+false si ambos son falsos.
+
+!: es un operador logico, significa "not". Es lo opuesto al significado.
