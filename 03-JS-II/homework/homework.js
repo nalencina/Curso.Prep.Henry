@@ -67,20 +67,28 @@ function colors(color) {
   //Usar el statement Switch.
   switch (color) {
 
-   case "blue" :
-   return "This is blue";
+   case "blue":{
+     return "This is blue";
+   }
+   break;
 
-   case "red" :
-   return "This is red";
+   case "red": {
+     return "This is red";
+   }
+   break;
 
-   case "green" :
-   return "This is green";
+   case "green": {
+     return "This is green";
+   } 
+   break;
 
-   case "orange" :
-   return "This is orange";
+   case "orange": {
+     return "This is orange";
+   } 
+   break;
 
-    default :
-    return "Color not found";
+  default :
+     return "Color not found";
 
   };
 
@@ -91,7 +99,7 @@ function esDiezOCinco(numero) {
   // De lo contrario, devuelve "false"
   // Tu código:
 
-  if (numero === 10 || numero === 5) {
+  if (numero === 10 || numero=== 5) {
   return true;
   } else {
    return false
