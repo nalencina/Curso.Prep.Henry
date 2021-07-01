@@ -93,7 +93,7 @@ function arrayContiene(array, elemento) {
 
 
 function agregarNumeros(numeros) {
-  // "array" debe ser una matriz de enteros (int/integers)
+  // "numeros" debe ser un arreglo de enteros (int/integers)
   // Suma todos los enteros y devuelve el valor
   // Tu código:
   
@@ -161,7 +161,7 @@ function multiplicarArgumentos() {
 
 
 function cuentoElementos(arreglo){
-  //Realiza una función que retorne la cantidad de los elementos del arreglo cuyo valor es mayor a 19.
+  //Realiza una función que retorne la cantidad de los elementos del arreglo cuyo valor es mayor a 18.
   //Escribe tu código aquí
 
   var elemento = [0]
