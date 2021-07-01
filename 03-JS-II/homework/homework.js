@@ -190,10 +190,10 @@ function esPrimo(numero) {
   }
 
   for (let i = 2 ; i < numero ; i++)
-  if (numero % i === 0) {
-  return false; 
+    if (numero % i === 0) {
+    return false; 
   } 
-  else {
+    else {
   return true;
   }
 }
